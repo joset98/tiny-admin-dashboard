@@ -1,2 +1,2 @@
 # tiny-dashboard
-a tiny dashboard test 
+A admin panel dashboard using React 
